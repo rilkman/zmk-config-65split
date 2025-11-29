@@ -21,8 +21,8 @@
                 &kp GRAVE  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6     &kp F7  &kp F8  &kp F9      &kp F10    &kp F11  &kp F12     &kp BSPC   &kp DEL
                 &bt BT_CLR     &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4   &trans     &kp Y   &kp U   &kp I       &kp O     &kp P      &kp LBKT      &kp RBKT   &kp BSLH 
                 &kp CAPS     &kp A   &kp S   &kp D   &kp F   &kp G   &trans     &kp H   &kp C_PREV   &kp C_PP       &kp C_NEXT     &kp SEMI   &kp SQT       &kp RET    &kp C_BRI_UP
-                &kp LSHFT    &kp Z   &kp X   &kp C   &kp V   &kp B   &trans     &kp N   &kp M   &kp COMMA   &kp DOT   &kp FSLH   &kp RSHFT     &kp UP     &kp C_BRI_DN
-                &bootloader        &kp LCTRL   &kp LALT    &kp LGUI   &kp SPACE &trans &trans   &kp SPACE   &kp RGUI   &kp RALT   &kp RCTRL  &kp LEFT   &kp DOWN   &bootloader   &trans
+                &bootloader  &kp Z   &kp X   &kp C   &kp V   &kp B   &trans     &kp N   &kp M   &kp COMMA   &kp DOT   &kp FSLH   &kp RSHFT     &kp UP     &kp C_BRI_DN
+                &trans       &kp LCTRL   &kp LALT    &kp LGUI   &kp SPACE &trans &trans   &kp SPACE   &kp RGUI   &kp RALT   &kp RCTRL  &kp LEFT   &kp DOWN   &bootloader   &trans
             >;
         };
     };
